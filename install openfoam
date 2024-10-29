@@ -1,0 +1,4 @@
+%% copy below to .bashrc by pressing crtl H on the HOME folder
+. /usr/lib/openfoam/openfoam2406/etc/bashrc
+%% type on terminal 
+source .bashrc
