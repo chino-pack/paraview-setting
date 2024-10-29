@@ -2,3 +2,5 @@
 . /usr/lib/openfoam/openfoam2406/etc/bashrc
 %% type on terminal 
 source .bashrc
+%% type on terminal to create copy folder
+mkdir -p $FOAM_RUN
