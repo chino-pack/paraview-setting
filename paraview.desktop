@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Paraview 5.13.1
+Exec=/home/katolab-phd24-02/ParaView-5.13.1/bin/paraview
+Terminal=false
+Icon=/home/katolab-phd24-02/ParaView-5.13.1/share/icons/hicolor/96x96/apps/paraview.png
+Type=Application
+x-Ayanata-Desktop-Shortcuts=NewWindow
+[NewWindow Shortcut Group]
+Name=New Window
+Exec=paraview
+TargetEnvironment=Unity
